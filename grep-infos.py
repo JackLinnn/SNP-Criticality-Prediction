@@ -1,1 +1,1 @@
-import biopython
+from Bio.Seq import Seq
